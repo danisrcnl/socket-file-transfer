@@ -17,7 +17,7 @@ Put the files you want to make available in the same folder where the server sou
 ```bash
 ./server1 1500
 ```
-where 1500 is the port number the server will listen on.
+where 1500 is the port number the server will listen on (you can use any valid port number you prefer).
 
 Then start the client too and ask for the files you want to download
 ```bash
